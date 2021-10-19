@@ -1,3 +1,3 @@
-#rectangle.py
+# rectangle.py
 
 ![rectangle](Images/rectangle.png)
