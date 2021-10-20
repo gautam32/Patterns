@@ -23,8 +23,4 @@ A few patters using cpp language and images are:
 ## 7.[hollow_pyramid](https://github.com/Sanket1308/Patterns/blob/main/Cpp/hollow_pyramid.cpp)
 ![hollow_pyramid](https://user-images.githubusercontent.com/79108273/138073007-6798c20a-d08a-4846-839b-7de55ae068d3.png)
 
-## how this made
-
-I made them using for loop we also make use of while loop to make them
-
   
