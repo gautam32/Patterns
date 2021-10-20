@@ -21,3 +21,6 @@ See what patterns are here, if you can create patterens different from these, ad
 
 ## (7). [number_pattern.py](https://github.com/harshgtm01/Patterns/blob/main/Python/number_pattern.py)
 ![number_pattern](Images/number_pattern.png)
+
+## (8). [full_pyramid.py](https://github.com/harshgtm01/Patterns/blob/main/Python/full_pyramid.py)
+![full_pyramid](Images/full_pyramid.png)
