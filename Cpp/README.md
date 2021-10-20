@@ -19,6 +19,10 @@ A few patters using cpp language and images are:
 
 ## 6.[rhombus](https://github.com/kantesreenithin/Patterns/blob/main/Cpp/rhombus.cpp)
 ![rhombus](https://user-images.githubusercontent.com/91329519/137967506-7a4147a5-5641-4c99-90fc-07b87e351459.png)
+
+## 7.[hollow_pyramid](https://github.com/Sanket1308/Patterns/blob/main/Cpp/hollow_pyramid.cpp)
+![hollow_pyramid](https://user-images.githubusercontent.com/79108273/138073007-6798c20a-d08a-4846-839b-7de55ae068d3.png)
+
 ## how this made
 
 I made them using for loop we also make use of while loop to make them
