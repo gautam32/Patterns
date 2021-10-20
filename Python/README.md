@@ -19,5 +19,5 @@ See what patterns are here, if you can create patterens different from these, ad
 ## (5). [inverted_half_pyramid.py](https://github.com/harshgtm01/Patterns/blob/main/Python/inverted_half_pyramid.py)
 ![inverted_half_pyramid](Images/inverted_half_pyramid.png)
 
-## (5). [full_pyramid.py](https://github.com/harshgtm01/Patterns/blob/main/Python/full_pyramid.py)
+## (8). [full_pyramid.py](https://github.com/harshgtm01/Patterns/blob/main/Python/full_pyramid.py)
 ![full_pyramid](Images/full_pyramid.png)
