@@ -25,5 +25,8 @@ See what patterns are here, if you can create patterens different from these, ad
 ## (8). [full_pyramid.py](https://github.com/gautam32/Patterns/blob/main/Python/full_pyramid.py)
 ![full_pyramid](Images/full_pyramid.png)
 
-## (9). [circle.py](https://github.com/gautam32/Patterns/blob/main/Python/circle.py)
+## (9). [square_pattern.py](https://github.com/gautam32/Patterns/blob/main/Python/square_pattern.py)
+![square_pattern](Images/square_pattern.png)
+
+## (10). [circle.py](https://github.com/gautam32/Patterns/blob/main/Python/circle.py)
 ![full_pyramid](Images/circle.png)
