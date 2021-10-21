@@ -31,5 +31,5 @@ See what patterns are here, if you can create patterens different from these, ad
 ## (10). [circle.py](https://github.com/gautam32/Patterns/blob/main/Python/circle.py)
 ![full_pyramid](Images/circle.png)
 
-## (11). [0-1.py](https://github.com/gautam32/Patterns/blob/newpattern/Python/0-1.py)
+## (11). [0-1.py](https://github.com/gautam32/Patterns/blob/main/Python/0-1.py)
 ![0-1](Images/0-1.png)
