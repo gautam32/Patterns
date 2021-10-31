@@ -38,4 +38,4 @@ See what patterns are here, if you can create patterens different from these, ad
 ![alphabet_pattern](Images/alphabet_pattern.png)
 
 ## (13).[palindrome_pattern.py](https://github.com/gautam32/Patterns/blob/main/Python/palindrome_pattern.py)
-![palindrome_pattern](Images/Palindrome_pattern.png)
+![palindrome_pattern](Images/palindrome_pattern.png)
