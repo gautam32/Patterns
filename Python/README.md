@@ -34,5 +34,8 @@ See what patterns are here, if you can create patterens different from these, ad
 ## (11). [0-1.py](https://github.com/gautam32/Patterns/blob/main/Python/0-1.py)
 ![0-1](Images/0-1.png)
 
-##(12).[palindrome_pattern.py](https://github.com/gautam32/Patterns/blob/main/Python/palindrome_pattern.py)
+## (12). [alphabet_pattern.py](https://github.com/gautam32/Patterns/blob/main/Python/alphabet_pattern.py)
+![alphabet_pattern](Images/alphabet_pattern.png)
+
+## (13).[palindrome_pattern.py](https://github.com/gautam32/Patterns/blob/main/Python/palindrome_pattern.py)
 ![palindrome_pattern](Images/Palindrome_pattern.png)
