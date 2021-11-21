@@ -23,5 +23,8 @@ A few patters using C++ language and images are:
 ## 7.[hollow_pyramid](https://github.com/gautam32/Patterns/blob/main/Cpp/hollow_pyramid.cpp)
 ![hollow_pyramid](images/hollow_pyramid.png)
 
-## 8. [alphabet_pattern](https://github.com/gautam32/Patterns/blob/main/Cpp/alphabet_pattern.py)
+## 8.[inverted_hollow_pyramid](https://github.com/gautam32/Patterns/blob/main/Cpp/inverted_hollow_pyramid.cpp)
+![hollow_pyramid](images/inverted_hollow_pyramid.png)
+ 
+## 9.[alphabet_pattern](https://github.com/gautam32/Patterns/blob/main/Cpp/alphabet_pattern.py)
 ![alphabet_pattern](images/alphabet_pattern.png)
